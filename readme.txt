@@ -1,5 +1,3 @@
 phuc
 deptrai wua
-
-hehe
-:
+This is a fog
